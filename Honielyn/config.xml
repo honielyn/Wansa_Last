@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Parables</name>
+    <name>WANSAPANATYM</name>
     <description>Final App
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        G
+    <author email="honielynsoriano07@gmail.com" href="http://cordova.io">
+        Honielyn Soriano
     </author>
     <content src="new.html" />
     <access origin="*" />
