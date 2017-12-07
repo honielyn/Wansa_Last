@@ -6,7 +6,7 @@
     <author email="honielynsoriano07@gmail.com" href="http://cordova.io">
         Honielyn Soriano
     </author>
-    <content src="new.html" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
